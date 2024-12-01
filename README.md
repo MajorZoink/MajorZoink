@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @MajorZoink
-- 👀 I’m interested in ... Security work, Cybersecurity, and Data visualization
-- 🌱 I’m currently learning ... Security Analyst, GSEC, Logrhythm, and Palo Alto
-- 💞️ I’m looking to collaborate on ... Nothing yet, getting my learning on first
-- 📫 How to reach me ... TBD
-
-<!---
-MajorZoink/MajorZoink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ... Security work, Cybersecurity, Data visualization, and Security Operations
+- 🌱 I’m currently learning ... Anything and everything that makes the world digitally safer!
+- 📫 How to reach me ... Exactly...
